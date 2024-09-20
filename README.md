@@ -12,7 +12,7 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://sebastianjast.github.io/News-homepage-main/)
+- Solution URL: [Add solution URL here](https://sebastianjast.github.io/Personal-Site/)
 
 ## My process
 
