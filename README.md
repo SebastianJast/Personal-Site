@@ -39,3 +39,5 @@ Simple Sliding Menu with JavaScript:
 ## Author
 
 - GitHub- [@yourusername](https://github.com/SebastianJast)
+- Website - [Sebastian](https://sebastianjast.github.io/Responsive_CV/)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/SebastianJast)
